@@ -52,11 +52,11 @@ network_security_config内容如下
 ```
 
 # 感谢
-[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 易用的原生Android视频播放器
+[GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer) 是一款基于IJKPlayer开发的Android开源视频播放器，除了视频播放功能外，GSYVideoPlayer还支持支持弹幕、滤镜、水印、片头广告和多种分辨率切换等功能。
 
 #License
 
-```angular2html
+```
 Copyright 2019 viktsun
 
 Licensed under the Apache License, Version 2.0 (the "License");
