@@ -1,0 +1,2 @@
+# flutter_mvideo_plugin
+基于原生GSYVideoPlayer视频库封装的flutter播放器插件
