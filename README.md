@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/ViktSun/MVideoPlugin.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Author](https://img.shields.io/badge/Author-viktsun-blue.svg)](http://www.sunwrite.top)
 
-flutter_mvideo_plugin是一个基于原生GSYVideoPlayer视频库封装的flutter播放器插件，目前只支持Android平台。
+flutter_mvideo_plugin是一个基于原生GSYVideoPlayer视频库封装的flutter播放器插件，目前只支持Android平台。对于原生iOS，则可以使用JPVideoPlayer进行封装。
 
 # 主要功能
 
