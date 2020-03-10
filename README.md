@@ -24,7 +24,7 @@ GSYVideoPlayer是一款基于IJKPlayer开发的Android开源视频播放器，�
 ```
 flutter_mvideo_plugin:
 git:
-url: https://github.com/UrielSun/MVideoPlugin.git
+url: https://github.com/xiangzhihong/flutter_mvideo_plugin.git
 ```
 
 
