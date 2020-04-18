@@ -1,8 +1,8 @@
 name: flutter_mvideo_plugin
-description: A new Flutter plugin.
+description: A Video Flutter plugin, supported both iOS and Android..
 version: 0.0.1
-author:
-homepage:
+#author: - 1044817967@qq.com
+homepage: https://blog.csdn.net/xiangzhihong8
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
